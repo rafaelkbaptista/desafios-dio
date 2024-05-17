@@ -1,14 +1,5 @@
 import textwrap
 
-menu2 = """
-==== Selecione a operação desejada ====
-    [s] Sacar
-    [d] Depositar
-    [e] Extrato
-    [q] Sair
-=======================================
-"""
-
 def menu():
     menu = """\n
     =============== Menu ==================
